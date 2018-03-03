@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Wiki-Quiz</string>
+    <string name="start_game">Start Game</string>
+    <string name="highscores">Highscores</string>
+    <string name="other">Other</string>
+    <string name="quit">Quit</string>
+    <string name="quit_question">Do you really want to quit?</string>
+    <string name="quit_body">You can\'t resume the current game and you get no points!</string>
+    <string name="cancel">Cancel</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="correct_answer">was the correct answer! Well done</string>
+    <string name="wrong_answer">That answer was wrong! The correct one would be </string>
+    <string name="continue_string">Continue</string>
+    <string name="whoops">Whoops!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="about_this_game">About this game</string>
+    <string name="learn_more">Read more</string>
+    <string name="created_by">&#169; Sunilson, 2018</string>
+    <string name="nothing_here">Nothing here yet</string>
+    <string name="points">Points</string>
+    <string name="rank">Rank</string>
+    <string name="answers">Answers</string>
+    <string name="date">Date</string>
+    <string name="duration">Duration</string>
+    <string name="game_over_questions">out of 10 questions with an average of</string>
+    <string name="game_over_questions2">seconds per question</string>
+    <string name="loading">Loading</string>
+    <string name="generating_quiz">Generating quiz...</string>
+    <string name="close">Close</string>
+    <string name="about_this_app">About this app</string>
+
+    <string name="about_text">If you have any bug reports or suggestions please contact me at <a href="sunilson.apps@gmail.com">sunilson.apps@gmail.com</a>. The code can be found on my Github <a href="https://github.com/sunilson">https://github.com/sunilson</a>. \n\n Wiki-Quiz is a private project and is in no way affiliated with Wikipedia. Wikipedia and its associated marks are official trademarks of the Wikimedia Foundation in the United States and other countries. These marks are being used under license by the Wikimedia Foundation. Wiki-Quiz is not endorsed by or affiliated with the Wikimedia Foundation.</string>
+</resources>

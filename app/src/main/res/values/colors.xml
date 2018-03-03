@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="dark_darker_background">#1e2b35</color>
+    <color name="dark_background">#2B3E4D</color>
+    <color name="dark_lighter_background">#385164</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="button_default">#ededed</color>
+    <color name="button_selected">#d6d6d6</color>
+    <color name="button_border">#9c9c9c</color>
+    <color name="button_info">#64B5F6</color>
+    <color name="play_button">#8BC34A</color>
+    <color name="link_button">#E0E0E0</color>
+    <color name="dark_icon_tint">#546E7A</color>
+    <color name="shadow_color">#9c9c9c</color>
+    <color name="light_text">#aeaeae</color>
+    <color name="medium_text">#434748</color>
+</resources>
